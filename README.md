@@ -18,4 +18,4 @@ A Python tool that analyzes e-commerce data from a CSV file and automatically cr
 1. Place your `ecommerce` file in the same folder as the script or `.exe`.  
 2. Run the script:
    ```bash
-   python e_commerce.exe
+   python auto_excel_report_genrator.exe
