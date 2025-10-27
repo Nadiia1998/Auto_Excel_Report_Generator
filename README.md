@@ -1,4 +1,6 @@
+
 # 📊 Auto Excel Report Generator
+
 
 A Python tool that analyzes e-commerce data from a CSV file and automatically creates a professional Excel report with KPIs, charts, and pivot tables.
 
@@ -18,4 +20,9 @@ A Python tool that analyzes e-commerce data from a CSV file and automatically cr
 1. Place your `ecommerce` file in the same folder as the script or `.exe`.  
 2. Run the script:
    ```bash
-   python auto_excel_report_genrator.exe
+    python auto_excel_report_genrator.exe```
+
+
+## Example Report
+   
+   <img width="1797" height="732" alt="image" src="https://github.com/user-attachments/assets/12c929cd-8331-44a0-8d47-e00052f94854" />
